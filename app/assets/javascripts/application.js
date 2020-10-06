@@ -4,8 +4,15 @@
 // It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
 // the compiled file.
 //
+//= require bootstrap/alert
+//= require bootstrap/util
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require_tree .
+//= require bootstrap
 //= require jquery
 //= require jquery_ujs
 //= require jquery
-//= require twitter/bootstrap
+//= require twitter_bootstrap
 //= require_tree .
